@@ -4,13 +4,13 @@
 
 This repository contains the official implementation of the paper **"HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT"**.
 
-> **Code:** HeSS is implemented and released in the repository of our follow-up work, ReSS: **[github.com/libary753/ReSS](https://github.com/libary753/ReSS)**. It covers both the HeSS calibration and the sparsified inference, for VGGT as well as for the other backbones ReSS evaluates.
+> **Code:** HeSS is implemented and released in the repository of our follow-up work, ReSS ([arXiv:2609.35593](https://arxiv.org/abs/2609.35593)): **[github.com/libary753/ReSS](https://github.com/libary753/ReSS)**. It covers both the HeSS calibration and the sparsified inference, for VGGT as well as for the other backbones ReSS evaluates.
 
 ---
 
 ## 🚀 News
 * **(2026.03)** Our paper has been accepted to **CVPR 2026**! 🎉
-* **(2026.09)** The calibration and inference code is released as part of our follow-up work, **ReSS**: [github.com/libary753/ReSS](https://github.com/libary753/ReSS).
+* **(2026.09)** The calibration and inference code is released as part of our follow-up work, **ReSS** ([arXiv:2609.35593](https://arxiv.org/abs/2609.35593)): [github.com/libary753/ReSS](https://github.com/libary753/ReSS).
 
 ## 💡 Abstract
 Visual Geometry Grounded Transformer (VGGT) has shown significant progress in 3D vision tasks. 
